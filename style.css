@@ -1,0 +1,15 @@
+.squareDiv{
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+    margin: 1px 1px;
+}
+.divBe{
+    display: inline-block;
+    height: 100%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
